@@ -2,7 +2,7 @@
 
 <h2> About Me </h2>
   
-- 🌱 I’m currently contributing to [solo.engineer](https://solo.engineer)
+- 🌱 I’m currently contributing to [indiehackers](https://www.indiehackers.com/)
 - 👯 I’m eager to talk about blockchain-based projects, no matter with multichain development. (currently have experience of Solana, Aptos, SUI and EVM-compatible blockchains)
 <h2 > Stats </h2>
 <p align = 'center'>
